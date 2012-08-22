@@ -1,0 +1,11 @@
+This project consist of a few different data structues that
+have been implemented using java. My goal was to learn more
+about java generics and gain a solid understanding of basic
+data structures. I also wanted these structues to be flexible
+and efficient. I will add more structues as I get time. 
+
+Currently contains
+    - LinkedList
+    - Stack
+    - Queue
+    - Binary Tree
